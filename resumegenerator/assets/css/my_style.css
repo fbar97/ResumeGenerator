@@ -1,0 +1,127 @@
+/*--------------------------------------------------*/
+		/*Form */
+/*--------------------------------------------------*/
+
+#generatorTitle {
+	padding: 25px 0px 25px 0px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	font-size: 50px;
+	color:white; 
+	
+}
+
+.formHeader {
+	background-color: #74c676;
+	height: 100px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#resumeInfo {
+	width: 900px;
+	padding: 50px 50px 50px 60px;
+	margin: 50px 250px 100px 250px;
+	background: #f2efef;
+	box-shadow: 0px 0px 10px #888888;
+	position: absolute;
+    white-space: nowrap;
+
+}
+
+#form input{
+	width: 100%;
+
+}
+
+#form td {
+	font-size: 20px;
+	padding: 5px 25px 5px 5px;
+	color: #74c676;
+}
+
+#form .submitBtn {
+	font: sans-serif;
+	font-style: bold;
+	color:#74c676;
+	width: 100px;
+	text-align: center;
+	
+}
+
+/*--------------------------------------------------*/
+		/*Resume */
+/*--------------------------------------------------*/
+
+#resumeTitle {
+	color:white;
+	padding: 25px 0px 25px 40px;
+	font-size: 50px;
+	text-align: center;	
+}
+
+#resumeHeader {
+	width:900px;
+	margin: 50px 250px 0px 250px;
+}
+
+.section {
+	width: 850px;
+	background:#f2efef; 
+	box-shadow: 0px 0px 10px #888888;
+	position: absolute;
+	margin:50px 275px 100px 275px;
+    white-space: nowrap;
+	padding: 10px 10px 10px 60px;
+	text-align: left;
+}
+
+.sectionH {
+	color: #57c0ab;
+	text-align: center;
+}
+
+.section td {
+	text-align: right;
+	color: #74c676;
+}
+
+#experience {
+	margin:350px 275px 100px 275px;
+}
+
+#skills {
+	margin:800px 275px 100px 275px;
+}
+
+#skills td {
+	text-align: center;
+	color: black;
+}
+
+#contact {
+	margin: 1000px 250px 0px 250px;
+	padding: 20px 20px 20px 20px;
+	width: 900px;
+	white-space: nowrap;
+	height: 150px;
+	
+}
+
+td {
+	text-align: center;
+}
+
+.glyphicon {
+	color:#D3D3D3;
+}
+
+
+
+
+
+
+
+
+
+
