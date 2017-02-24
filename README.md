@@ -1,2 +1,4 @@
 # ResumeGenerator
-Generates a resume page based on information given by the user.
+This is a project I did for a MindSumo challenge sponsored by Adobe. I won third place out of 12 contestants.
+The web app generates a resume page based on information given by the user. 
+It was implemented using ColdFusion Builder, HTML, CSS, and Bootstrap.
